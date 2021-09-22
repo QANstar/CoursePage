@@ -1,3 +1,3 @@
-importScripts("/resume-vue/precache-manifest.8b3c630033d52cf6cb30362300ba20d1.js");
+importScripts("/CoursePage/precache-manifest.a44e511fe81c8eec2538e1a0b11c4735.js");
 
 
