@@ -1,2 +1,2 @@
 # CoursePage
-教程git pages
+基于vue开发的前端教程网站
